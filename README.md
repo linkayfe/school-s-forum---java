@@ -35,7 +35,7 @@
 
 ###### <u>首页展示</u>
 
-![](\egpng\home.png)
+![](/egpng/home.png)
 
 ###### <u>帖子内容展示</u>
 
