@@ -1,5 +1,7 @@
 这里是论坛的完整版
 
+前端代码GitHub地址：https://github.com/linkayfe/school-s-forum---vue
+
 由于该项目本意是校园论坛系统，想着用户都是从学校的学生信息导入的，所以没有注册用户的功能，在建库见表后需要手动在数据库插入数据，启动并访问localhost:8011即可进入首页。
 
 注意：resources/static中的文件是由前端打包复制而来；
